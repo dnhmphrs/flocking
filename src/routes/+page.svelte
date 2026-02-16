@@ -48,7 +48,7 @@
 	</div>
 
 	<div class="title">
-		<p>:: YOU ARE BEING OBSERVED ::</p>
+		<p>FLOCKING // PREDATOR POV</p>
 	</div>
 
 </div>
@@ -100,8 +100,8 @@
 
 	.title {
 		position: absolute;
-		bottom: 25px;
-		left: 70px;
+		top: 5px;
+		left: 5px;
 		padding: 10px;
 		border-radius: 4px;
 		z-index: 100;
